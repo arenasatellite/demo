@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 85.4 168" style="enable-background:new 0 0 85.4 168;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#team-divider_1_);}
+</style>
+<linearGradient id="team-divider_1_" gradientUnits="userSpaceOnUse" x1="-258.3443" y1="479.1488" x2="-258.3443" y2="478.1488" gradientTransform="matrix(85.4 0 0 -168 22112.8008 80497)">
+	<stop  offset="0" style="stop-color:#DF0E62"/>
+	<stop  offset="1" style="stop-color:#21174A"/>
+</linearGradient>
+<path id="team-divider" class="st0" d="M15,0h27l43.4,84.4L42,168l-26.8-0.4l44-83.6L15,0z"/>
+</svg>
